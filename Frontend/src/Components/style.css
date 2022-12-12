@@ -1,0 +1,147 @@
+.top {
+    height: 15%;
+}
+
+.grey {
+    background-color: #383b40;
+}
+
+.dark_blue {
+    background-color: #2a2f3c !important;
+}
+
+.bottom {
+    height: 85%;
+}
+
+body {
+    background-color: #1f2023;
+}
+
+i {
+    cursor: pointer;
+}
+
+#lang {
+    display: flex;
+    flex-direction: column;
+}
+
+#min {
+    display: none;
+}
+
+.hidden {
+    visibility: hidden;
+}
+
+.tc{
+    color:rgb(216, 54, 54)
+}
+
+
+* {
+    box-sizing: border-box;
+}
+
+.maxH {
+    height: 550px;
+    overflow: auto;
+}
+
+.code {
+    height: 541px;
+}
+
+
+ .ahmed{
+    height: 90%;
+} 
+.a{
+    width:120px
+}
+
+
+
+* {
+    box-sizing: border-box;
+}
+
+.maxH {
+    height: 500px;
+    overflow: auto;
+}
+
+.code {
+    height: 500px;
+    margin-top: 3px;
+}
+
+.coding {
+    height: 53%;
+}
+
+.result {
+    height: 45%;
+
+}
+
+.grey {
+    background-color: #282828 !important;
+}
+
+.black {
+    background-color: #1a1a1a;
+}
+
+.green {
+    color: #2eb75c !important;
+}
+
+.lightGreen {
+    background-color: #2eb75c !important;
+}
+
+.darkBlue {
+    background-color: #243a4d;
+}
+
+.grey2 {
+    background-color: #3e3e3e !important;
+}
+
+.grey3 {
+    background-color: #252525;
+}
+
+.problem {
+    width: 49.6%;
+    margin-top: 1px;
+
+}
+
+.hh {
+    overflow: auto;
+    height: 480px;
+}
+
+.solution {
+    width: 49.6%;
+}
+
+@media screen and (max-width:992px) {
+    .problem {
+        width: 100%;
+        margin-top: 1px;
+
+    }
+
+    .solution {
+        width: 100%;
+
+    }
+}
+
+.box:hover {
+    cursor: pointer;
+} 
