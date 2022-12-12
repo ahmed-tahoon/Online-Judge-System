@@ -57,7 +57,7 @@ Install project with npm
 
 ```bash
 git clone https://github.com/ahmed-tahoon/Online-Judge-Mern
-cd project
+cd Online-Judge-Mern
 npm install 
 
 ```
