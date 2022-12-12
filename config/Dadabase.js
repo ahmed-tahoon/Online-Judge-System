@@ -1,5 +1,5 @@
 const mongoose = require('mongoose');
-url="mongodb+srv://ahmed:ahmed12345@cluster0.cgzzj.mongodb.net/online_judge2?retryWrites=true&w=majority";
+url="";
 
 
 mongoose.connect(url , (err)=>{
