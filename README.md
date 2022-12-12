@@ -36,12 +36,15 @@ The following functions are under development.
 
 - Contest - Generate contest by randomly selecting four questions from the question library.
 - Collaborative code editor - Different users can work on the same solution simultaneously.
+
+
 ### Tech Stack:
 The Server is built with Express and MongoDB. The used libraries for server are listed as follows.
 
 - RESTful API: express, express router, mongoose, cors
 - Logging: morgan, winston
 - User Authentication: jsonwebtoken, passport, cookie-parser, express-jwt
+
 The Client is built with React and 3rd-party libraries, see below.
 
 - CSS and Icon: bootstrap, font-awesome
