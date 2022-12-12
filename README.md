@@ -1,7 +1,7 @@
 
 # Online Judge System
 
-A web application for online judge(algorithm questions), built with MERN stack(MongoDB, Express, React and Node.js).
+A web application for online judge(algorithm questions), built with MERN stack( MongoDB, Express, React and Node.js ).
 This online judge application is used to practice programming to solve algorithm questions. It can compile and execute code, and test them with pre-constructed data. The output of the code will be captured by the system, and compared with the standard output. The system will then return the result.
 Three languages are currently supported, including Java, Javascript and Python.
   
