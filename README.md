@@ -31,9 +31,8 @@ This application is used to solve algorithm questions. You can submit the soluti
 - Question Management - Create, Update, Delete question.
 - Judging System - Judging Engine, Solution Template, Submission History, Multi-programming language support.
 - Programming Languages - Three languages are currently supported, including Java, Javascript and Python.
-- UI - aceTextEditor, Code Editor, Progress Bar, Loading Image are applied.
-The following functions are under development.
 
+The following functions are under development.
 - Contest - Generate contest by randomly selecting four questions from the question library.
 - Collaborative code editor - Different users can work on the same solution simultaneously.
 
