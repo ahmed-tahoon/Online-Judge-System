@@ -44,11 +44,7 @@ The Server is built with Express and MongoDB. The used libraries for server are 
 - Logging: morgan, winston
 - User Authentication: jsonwebtoken, passport, cookie-parser, express-jwt
 
-The Client is built with React and 3rd-party libraries, see below.
-
-- CSS and Icon: bootstrap, font-awesome
-- React ace Text Editor: ngx-quill
-- Code Editor: react-editor
+The Client is built with React and 3rd-party libraries
 
 ## Installation
 
